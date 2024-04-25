@@ -2,7 +2,7 @@
 
 ## About
 This repository consists of experiements conduced on Sarcasm and Irony datasets using various model architectures.
-The quality of the language model is measured through confusion matrix and detailed report is present in 15-report.pdf
+The quality of the language model is measured through confusion matrix
 
 ## Project files
 ### Common Util files
