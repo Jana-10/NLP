@@ -1,4 +1,4 @@
-# Advanced NLP –  Project Submission
+# Advanced NLP –  Project 
 
 ## About
 This repository consists of experiements conduced on Sarcasm and Irony datasets using various model architectures.
