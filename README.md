@@ -1,7 +1,7 @@
 # Advanced NLP –  Project 
 
 ## About
-This repository consists of experiements conduced on Sarcasm and Irony datasets using various model architectures.
+This repository consists of experiements conducted on Sarcasm and Irony datasets using various model architectures.
 The quality of the language model is measured through confusion matrix
 
 ## Project files
