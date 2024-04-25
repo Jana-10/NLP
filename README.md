@@ -36,11 +36,6 @@ Since transformers are powered by powerful tokenization like BPE etc, we restrci
 <li>experiment/setfit_impl.ipynb consists of setfit few shot training implementation</li>
 <li>experiment/irony_tf_exponential.ipynb consists of exponential task specific postional encoding transformer training implementation</li>
 
-
-### Dependencies
-create virtual environment and install dependencies transformers, nltk, gensim, sklearn to reproduce
-https://drive.google.com/drive/folders/1wwpnXvfuH1vbCFFsTfMj_xuE1fhlSRZd?usp=drive_link
-
 ### Troubleshooting
 Often times the execution may fail if python path is not set correctly.
 Try loading the project to IDE for smooth execution.
